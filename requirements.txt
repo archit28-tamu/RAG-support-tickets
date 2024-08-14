@@ -1,0 +1,7 @@
+langchain 
+langchain-community 
+langchain-chroma
+langchain-huggingface
+sentence_transformers
+python-dotenv
+langchain_nvidia_ai_endpoints
